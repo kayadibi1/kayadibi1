@@ -1,14 +1,6 @@
 # Sidar Aslanoglu
 
-Johns Hopkins SAIS (MA 2026). AI governance and verification: I build the tools I use to check claims about AI systems, with deterministic verification built in, not bolted on. Currently a SPAR research mentee on verification evidence for compute governance.
-
-### What I'm working on now
-
-[**overdue-ai**](https://github.com/kayadibi1/overdue-ai): are frontier AI labs keeping the dated safety promises they made themselves? A source-cited board of individual commitments (RSP, Preparedness and Frontier Safety milestones, the Seoul and White House voluntary commitments) with live overdue and countdown timers and Wayback-archived evidence for every row. Live at [overduetracker.org](https://overduetracker.org).
-
-**SPAR, Kairos AI Project** (Fall 2026): structuring a sourced verification dataset on the project's evidence track: co-developing the coding scheme and piloting it on IAEA safeguards instruments.
-
-### AI safety and governance
+AI governance and verification.
 
 | Project | What it does | Evidence |
 |---------|-------------|---------|
@@ -27,4 +19,4 @@ Johns Hopkins SAIS (MA 2026). AI governance and verification: I build the tools 
 | [**h1b-labor-map**](https://github.com/kayadibi1/h1b-labor-map) | Federal-data ETL: which employers sponsor H-1B, where, in which roles. Every threshold cited to the Federal Register | Ran on real multi-GB federal releases |
 | [**dc-frontier-events-aggregator**](https://github.com/kayadibi1/dc-frontier-events-aggregator) | DC AI and frontier-tech event aggregator. Multi-source dedup and relevance ranking | Live at [events.emersus.ai](https://events.emersus.ai) |
 
-Writing and CV: [sidaraslanoglu.com](https://sidaraslanoglu.com). Turkish (native), English (C2). [ORCID](https://orcid.org/0009-0004-8621-0558).
+Writing and CV: [sidaraslanoglu.com](https://sidaraslanoglu.com).  [ORCID](https://orcid.org/0009-0004-8621-0558).
